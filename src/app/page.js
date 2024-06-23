@@ -10,6 +10,7 @@ function MainTitle() {
       </>
   );
 };
+
 function Education() {
   return (
     <>
