@@ -16,6 +16,13 @@ function Education() {
     <>
     <div className="education">
     <section>
+       <h1>Projects</h1>
+          <h2><a href="https://tic-tac-toe-pi-ashen.vercel.app/" target="blank" className="tic-tac-toe-project">Tic-Tac-Toe Project</a></h2>
+            <p>A simple tic-tac-toe game made using React</p>
+            <h2><a href="https://github.com/brandonbuhr" target="blank" className="my-github">My Github</a></h2>
+      </section>
+      <br />
+    <section>
        <h1>Education</h1>
           <h2>Bachelor of Fine Arts in Music Composition and Technology</h2>
             <h3>University of Wisconsin-Milwaukee, Peck School of the Arts, 2016-2021</h3>
@@ -40,20 +47,7 @@ function Education() {
     </>
   );
 }
-function Projects() {
-  return (
-    <>
-    <div className="projects">
-      <section>
-       <h1>Projects</h1>
-          <h2><a href="https://tic-tac-toe-pi-ashen.vercel.app/" target="blank" className="tic-tac-toe-project">Tic-Tac-Toe Project</a></h2>
-            <p>A simple tic-tac-toe game made using React</p>
-            <h2><a href="https://github.com/brandonbuhr" target="blank" className="my-github">My Github</a></h2>
-      </section>
-    </div>
-    </>
-  );
-}
+
 function WorkExperience() {
   return (
     <>
@@ -95,7 +89,6 @@ export default function Portfolio() {
   <div>
     <MainTitle />
       <Education />
-      <Projects /> 
       <WorkExperience />
   </div>
   );
