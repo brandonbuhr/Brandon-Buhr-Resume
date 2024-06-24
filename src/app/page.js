@@ -48,6 +48,7 @@ function Projects() {
        <h1>Projects</h1>
           <h2><a href="https://tic-tac-toe-pi-ashen.vercel.app/" target="blank" className="tic-tac-toe-project">Tic-Tac-Toe Project</a></h2>
             <p>A simple tic-tac-toe game made using React</p>
+            <h2><a href="https://github.com/brandonbuhr" target="blank" className="my-github">My Github</a></h2>
       </section>
     </div>
     </>
