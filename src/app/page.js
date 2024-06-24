@@ -75,6 +75,15 @@ function WorkExperience() {
             <li>Replaced damaged cables from telephone poles going to client's homes and routing new cables.</li>
             <li>Installed home internet and phone equipment, activated Spectrum service </li>
       </section>
+      <br />
+
+      <section>
+        <h2>Carpenter, Construction Equipment Operator</h2>
+          <h3>Buhr Construction, June 2014 - June 2021</h3>
+            <li>Operated forklifts, loaders, dump trucks, and other heavy machinery.</li>
+            <li>Experience in carpentry building fine woodwork such as tables, cabinets, and wood decor.</li>
+            <li>Responsibilities included roofing, siding, framing, cutting, and using hand tools.</li>
+      </section>
     </div>
     </>
   );
