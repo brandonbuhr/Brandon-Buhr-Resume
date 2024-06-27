@@ -41,7 +41,7 @@ function Education() {
           <h2>Software Development</h2>
             <h3>Course Careers, 2024</h3>
             <li>This resume was made using React</li>
-            <li>Experience working with Go, JavaScript, React, HTML, CSS, API's</li>
+            <li>Experience working with Go, JavaScript, React, HTML, CSS, APIs</li>
       </section>
     </div>
     </>
