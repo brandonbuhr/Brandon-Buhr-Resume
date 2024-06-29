@@ -5,7 +5,7 @@ function MainTitle() {
     <>
     <div className="main-title">
       <h4>Brandon Buhr</h4>
-      <h4>Software Developer</h4>
+      <h4>Aspiring Software Developer</h4>
       </div>
       </>
   );
@@ -17,9 +17,12 @@ function Education() {
     <div className="education">
     <section>
        <h1>Projects</h1>
+       <h2><a href="https://react-weather-app-murex-phi.vercel.app/" target="blank" className="weather-app">React Weather App</a></h2>
+          <p>A weather app deployed using Vercel. This project is built with React, utilizing a weather API to fetch data, and all the data handling is done with JavaScript and JSX. The app's styling is crafted with CSS.</p>
           <h2><a href="https://tic-tac-toe-pi-ashen.vercel.app/" target="blank" className="tic-tac-toe-project">Tic-Tac-Toe Project</a></h2>
-            <p>A simple tic-tac-toe game made using React</p>
+            <p>A simple tic-tac-toe game made using React.</p>
             <h2><a href="https://github.com/brandonbuhr" target="blank" className="my-github">My Github</a></h2>
+            
       </section>
       <br />
     <section>
@@ -42,6 +45,7 @@ function Education() {
             <h3>Course Careers, 2024</h3>
             <li>This resume was made using React</li>
             <li>Experience working with Go, JavaScript, React, HTML, CSS, APIs</li>
+            <li>Knowledge of data structures and algorithms, as well as time complexity</li>
       </section>
     </div>
     </>
