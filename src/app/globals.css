@@ -1,4 +1,9 @@
 
+div {
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
 h1 {
   font-weight: bold;
   font-size: 24px;
@@ -15,43 +20,38 @@ h3 {
 }
 
 .main-title {
-  text-align: center;
 padding: 20px;
-font-size: 24px;
+font-size: 26px;
 font-weight: bolder;
-
 }
 .education {
-  float: left;
   padding: 20px;
-  width: 49%;
+  border: 1px solid gray;
+  border-radius: 15px;
 }
 .music-portfolio {
   font-weight: bolder;
   color: blue;
   font-size: 18px;
-  text-decoration-line: underline;
 }
 
 .work-experience {
-  display: inline-block;
-  padding: 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 15px;
 }
 .tic-tac-toe-project {
   font-weight: bolder;
   color: blue;
   font-size: 20px;
-  text-decoration-line: underline;
 }
 .my-github {
   font-weight: bolder;
   color: blue;
   font-size: 20px;
-  text-decoration-line: underline;
 }
 .weather-app {
   font-weight: bolder;
   color: blue;
   font-size: 20px;
-  text-decoration-line: underline;
 }
