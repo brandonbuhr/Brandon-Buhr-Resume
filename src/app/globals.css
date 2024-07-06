@@ -19,7 +19,7 @@ h3 {
   font-style:inherit;
   font-weight: bold;
 }
-li {
+li, p {
  font-size: 1.2rem;
 }
 .main-title {
