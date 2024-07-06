@@ -8,19 +8,20 @@ div {
 }
 h1 {
   font-weight: bold;
-  font-size: 24px;
-  text-decoration-line: underline;
+  font-size: 2rem;
 }
 h2 {
-  font-size: 22px;
+  font-size: 1.7rem;
 font-weight: bold;
 }
 h3 {
-  font-size: 18px;
+  font-size: 1.5rem;
   font-style:inherit;
   font-weight: bold;
 }
-
+li {
+ font-size: 1.2rem;
+}
 .main-title {
 padding: 20px;
 font-size: 26px;
@@ -31,29 +32,14 @@ font-weight: bolder;
   border: 1px solid gray;
   border-radius: 15px;
 }
-.music-portfolio {
-  font-weight: bolder;
-  color: blue;
-  font-size: 18px;
-}
-
 .work-experience {
   padding: 10px;
   border: 1px solid gray;
   border-radius: 15px;
 }
-.tic-tac-toe-project {
+.tic-tac-toe-project, .my-github, .weather-app, .music-portfolio {
   font-weight: bolder;
   color: blue;
-  font-size: 20px;
+  font-size: 25px;
 }
-.my-github {
-  font-weight: bolder;
-  color: blue;
-  font-size: 20px;
-}
-.weather-app {
-  font-weight: bolder;
-  color: blue;
-  font-size: 20px;
-}
+
