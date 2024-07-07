@@ -48,12 +48,10 @@ font-weight: bolder;
 }
 .education {
   padding: 20px;
-  border: 1px solid gray;
   border-radius: 15px;
 }
 .work-experience {
   padding: 10px;
-  border: 1px solid gray;
   border-radius: 15px;
 }
 .tic-tac-toe-project, .my-github, .weather-app, .music-portfolio {
